@@ -1,0 +1,7 @@
+O código a seguir se refere ao projeto final da disciplina de IoT, sobre o Acessiluz
+
+É um projeto que permite acender e apagar a luz do seu smartphone, deixando assim um maior conforto para o usuário. Isso se torna possível graças a 
+integração do arduino com o protocolo MQTT. 
+
+Nesse projeto, usamos baterias para alimentar o arduino, modulo rele conectado na porta digital 7 do arduino, placa arduino uno R3, protoboard, lampada de led 
+e um módulo bluetooth ligado na porta RX - TX
